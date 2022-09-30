@@ -1,0 +1,9 @@
+#hello,#heart
+{
+    border: none !important;
+}
+#hello,#heart:focus
+{
+    border: none !important;
+    -webkit-box-shadow:none !important;
+}
